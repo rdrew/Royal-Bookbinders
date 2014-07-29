@@ -1,10 +1,10 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/neat\/grid\/_grid\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/neat\/grid\/_grid\.scss}line{font-family:\000032}}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/extends\/_button\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/extends\/_button\.scss}line{font-family:\000031}}
 button,
 input[type="submit"] {
   -webkit-font-smoothing: antialiased;
@@ -17,13 +17,13 @@ input[type="submit"] {
   line-height: 1;
   padding: .75em 1em;
   text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/extends\/_button\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/extends\/_button\.scss}line{font-family:\0000313}}
   button:hover,
   input[type="submit"]:hover {
     background-color: #2c5999;
     color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\000031}}
 body {
   -webkit-font-smoothing: antialiased;
   background-color: white;
@@ -32,18 +32,18 @@ body {
   font-size: 1em;
   line-height: 1.5; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000310}}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Lusitana", serif;
   line-height: 1.25em;
   margin: 0;
   text-rendering: optimizeLegibility; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000317}}
 h1 {
   font-size: 2.25em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000321}}
 h2 {
   font-family: "Merriweather", serif;
   font-style: italic;
@@ -52,49 +52,49 @@ h2 {
   line-height: 1.6em;
   margin-bottom: .9em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000335}}
 h3 {
   font-size: 1.75em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000339}}
 h4 {
   font-size: 1.5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000343}}
 h5 {
   font-size: 1.25em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000347}}
 h6 {
   font-size: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000353}}
 p {
   font-family: "Merriweather", serif;
   line-height: 1.6em;
   font-size: 1em;
   margin-bottom: 1.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000360}}
   p span {
     font-family: "Merriweather Sans", sans-serif;
     font-weight: 700; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000367}}
 a {
   -webkit-transition: color 0.1s linear;
   -moz-transition: color 0.1s linear;
   transition: color 0.1s linear;
   color: #477dca;
   text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000372}}
   a:hover {
     color: #2c5999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000376}}
   a:active, a:focus {
     color: #2c5999;
     outline: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000382}}
 hr {
   border-bottom: 1px solid #dddddd;
   border-left: none;
@@ -102,27 +102,27 @@ hr {
   border-top: none;
   margin: 1.5em 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000390}}
 img {
   margin: 0;
   max-width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\0000395}}
 blockquote {
   border-left: 2px solid #dddddd;
   color: #595959;
   margin: 1.5em 0;
   padding-left: 0.75em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003102}}
 cite {
   color: #737373;
   font-style: italic; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003106}}
   cite:before {
     content: '\2014 \00A0'; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_typography\.scss}line{font-family:\00003110}}
 code {
   white-space: nowrap;
   font-family: monaco;
@@ -133,14 +133,14 @@ code {
   font-size: .75em;
   font-style: normal; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\000031}}
 fieldset {
   background: #f7f7f7;
   border: 1px solid #dddddd;
   margin: 0 0 0.75em 0;
   padding: 1.5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000310}}
 input,
 label,
 select {
@@ -148,18 +148,18 @@ select {
   font-family: "Lusitana", serif;
   font-size: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000316}}
 label {
   font-weight: bold;
   margin-bottom: 0.375em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000320}}
   label.required:after {
     content: "*"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000324}}
   label abbr {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000331}}
 textarea,
 input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="time"], input[type="week"],
 select[multiple=multiple] {
@@ -178,12 +178,12 @@ select[multiple=multiple] {
   margin-bottom: 0.75em;
   padding: 0.5em 0.5em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000344}}
   textarea:hover,
   input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="url"]:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="time"]:hover, input[type="week"]:hover,
   select[multiple=multiple]:hover {
     border-color: #c4c4c4; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000348}}
   textarea:focus,
   input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus,
   select[multiple=multiple]:focus {
@@ -191,11 +191,11 @@ select[multiple=multiple] {
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(55, 112, 192, 0.7);
     outline: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000355}}
 textarea {
   resize: vertical; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000359}}
 input[type="search"] {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -203,63 +203,63 @@ input[type="search"] {
   -o-appearance: none;
   appearance: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000363}}
 input[type="checkbox"], input[type="radio"] {
   display: inline;
   margin-right: 0.375em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000368}}
 input[type="file"] {
   margin-bottom: 0.75em;
   padding-bottom: 0.5em;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_forms\.scss}line{font-family:\0000374}}
 select {
   width: auto;
   max-width: 100%;
   margin-bottom: 1.5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\000031}}
 table {
   border-collapse: collapse;
   margin: 0.75em 0;
   table-layout: fixed;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\000038}}
 th {
   border-bottom: 1px solid #b7b7b7;
   font-weight: bold;
   padding: 0.75em 0;
   text-align: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\0000315}}
 td {
   border-bottom: 1px solid #dddddd;
   padding: 0.75em 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_tables\.scss}line{font-family:\0000320}}
 tr, td, th {
   vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\000031}}
 ul, ol {
   margin: 0;
   padding: 0;
   list-style-type: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000319}}
 dl {
   margin-bottom: 0.75em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000322}}
   dl dt {
     font-weight: bold;
     margin-top: 0.75em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_lists\.scss}line{font-family:\0000327}}
   dl dd {
     margin: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/1-base\/_buttons\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/1-base\/_buttons\.scss}line{font-family:\000032}}
 button,
 input[type="submit"] {
   -webkit-appearance: none;
@@ -273,35 +273,40 @@ input[type="submit"] {
   vertical-align: middle;
   white-space: nowrap; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000031}}
 .logo_image {
-  width: 230px;
+  width: 158px;
   margin: 0 auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000034}}
   .logo_image img {
     width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\000039}}
 .logo_name h1 {
-  text-align: center; }
+  text-align: center;
+  font-size: 3.5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000313}}
 .logo_container {
   padding-top: 20px; }
 
 @media screen and (min-width: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000317}}
   .logo_image {
     float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000320}}
   .logo_name {
     float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000323}}
   .content {
     clear: both; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000327}}
+.logo_name {
+  padding: 54px 0 0 28px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\000034}}
 .centered-navigation {
   background-color: #e7f1ec;
   border-bottom: 1px solid #d4e6dd;
@@ -309,22 +314,22 @@ input[type="submit"] {
   height: 60px;
   width: 100%;
   z-index: 9999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000326}}
   .centered-navigation .mobile-logo {
     display: inline;
     float: left;
     max-height: 60px;
     padding-left: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000332}}
     .centered-navigation .mobile-logo img {
       max-height: 60px;
       opacity: .6;
       padding: .8em 0; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000326}}
       .centered-navigation .mobile-logo {
         display: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000343}}
   .centered-navigation .centered-navigation-menu-button {
     color: rgba(51, 51, 51, 0.7);
     display: block;
@@ -335,30 +340,30 @@ input[type="submit"] {
     padding-right: 1em;
     text-transform: uppercase; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000343}}
       .centered-navigation .centered-navigation-menu-button {
         display: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000357}}
     .centered-navigation .centered-navigation-menu-button:hover {
       color: #333333; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000364}}
   .centered-navigation .centered-navigation-wrapper {
     max-width: 68em;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     z-index: 999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
     .centered-navigation .centered-navigation-wrapper:after {
       content: "";
       display: table;
       clear: both; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
     .centered-navigation .centered-navigation-wrapper:after {
       content: "";
       display: table;
       clear: both; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000371}}
   .centered-navigation ul.centered-navigation-menu {
     -webkit-transform-style: preserve-3d;
     clear: both;
@@ -369,15 +374,15 @@ input[type="submit"] {
     width: 100%;
     z-index: 99999; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000371}}
       .centered-navigation ul.centered-navigation-menu {
         display: block;
         text-align: center; } }
   @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000389}}
     .centered-navigation .nav-link:first-child {
       margin-left: 2.2em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000395}}
   .centered-navigation ul li {
     background: #e7f1ec;
     display: block;
@@ -389,44 +394,44 @@ input[type="submit"] {
     z-index: 9999;
     font-size: 1.2em; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\0000395}}
       .centered-navigation ul li {
         background: transparent;
         display: inline;
         line-height: 60px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003111}}
         .centered-navigation ul li a {
           padding-right: 1em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003116}}
     .centered-navigation ul li a {
       color: rgba(51, 51, 51, 0.7);
       display: inline-block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003121}}
       .centered-navigation ul li a:hover {
         color: #333333; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003127}}
   .centered-navigation li.logo {
     display: none;
     line-height: 0; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003127}}
       .centered-navigation li.logo {
         display: inline; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003136}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003136}}
   .centered-navigation .logo img {
     margin-bottom: -0.66667em;
     max-height: 2em;
     opacity: .6; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003145}}
   .centered-navigation li.more.nav-link > ul > li:first-child a {
     padding-top: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003149}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003149}}
   .centered-navigation li.more.nav-link a {
     margin-right: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003153}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003153}}
   .centered-navigation li.more.nav-link > a {
     padding-right: 0.6em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003157}}
   .centered-navigation li.more.nav-link > a:after {
     position: absolute;
     top: auto;
@@ -435,153 +440,153 @@ input[type="submit"] {
     left: auto;
     color: rgba(51, 51, 51, 0.7);
     content: '\25BE'; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003164}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003164}}
   .centered-navigation li.more {
     overflow: visible;
     padding-right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003168}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003168}}
     .centered-navigation li.more a {
       padding-right: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003172}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003172}}
     .centered-navigation li.more > a {
       padding-right: 1.6em;
       position: relative; }
       @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003172}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003172}}
         .centered-navigation li.more > a {
           margin-right: 1em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003180}}
       .centered-navigation li.more > a:after {
         content: '\276d';
         position: absolute;
         right: 0.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003187}}
     .centered-navigation li.more:hover > .submenu {
       display: block; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003164}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003164}}
       .centered-navigation li.more {
         padding-right: 1em;
         position: relative; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003197}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003197}}
   .centered-navigation ul.submenu {
     display: none;
     padding-left: 0; }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003197}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003197}}
       .centered-navigation ul.submenu {
         left: -1em;
         position: absolute;
         top: 1.5em; } }
     @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003207}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003207}}
       .centered-navigation ul.submenu .submenu {
         left: 11.8em;
         top: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003214}}
     .centered-navigation ul.submenu li {
       display: block;
       padding-right: 0; }
       @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003214}}
         .centered-navigation ul.submenu li {
           line-height: 46.15385px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003221}}
           .centered-navigation ul.submenu li:first-child > a {
             border-top-left-radius: 0.1875em;
             border-top-right-radius: 0.1875em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003226}}
           .centered-navigation ul.submenu li:last-child > a {
             border-bottom-left-radius: 0.1875em;
             border-bottom-right-radius: 0.1875em;
             padding-bottom: .7em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003233}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003233}}
       .centered-navigation ul.submenu li a {
         background-color: #ddebe4;
         display: inline-block;
         text-align: right;
         width: 100%; }
         @media screen and (min-width: 53.75em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003233}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\00003233}}
           .centered-navigation ul.submenu li a {
             background-color: #e7f1ec;
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\000033}}
 .footer {
   background: #40526b;
   padding: 3em 1.618em;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000313}}
   .footer .footer-logo {
     text-align: center;
     margin-bottom: 2em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000317}}
     .footer .footer-logo img {
       height: 3em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000322}}
   .footer .footer-links {
     margin-bottom: 1.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
     .footer .footer-links:after {
       content: "";
       display: table;
       clear: both; }
     @media screen and (min-width: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000322}}
       .footer .footer-links {
         margin-left: 25.58941%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000331}}
   .footer ul {
     margin-bottom: 3em; }
     @media screen and (min-width: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000331}}
       .footer ul {
         float: left;
         display: block;
         margin-right: 2.35765%;
         width: 23.23176%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/neat\/grid\/_span-columns\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/neat\/grid\/_span-columns\.scss}line{font-family:\0000338}}
         .footer ul:last-child {
           margin-right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/neat\/grid\/_omega\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/neat\/grid\/_omega\.scss}line{font-family:\0000352}}
         .footer ul:nth-child(3n) {
           margin-right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/neat\/grid\/_omega\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/neat\/grid\/_omega\.scss}line{font-family:\0000357}}
         .footer ul:nth-child(3n+1) {
           clear: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/0-plugins\/bourbon\/addons\/_clearfix\.scss}line{font-family:\0000315}}
         .footer ul:after {
           content: "";
           display: table;
           clear: both; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000341}}
   .footer li {
     text-align: center; }
     @media screen and (min-width: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000341}}
       .footer li {
         text-align: left; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000349}}
   .footer li a {
     color: rgba(255, 255, 255, 0.4); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000352}}
     .footer li a:hover {
       color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000357}}
   .footer li h3 {
     color: white;
     font-size: 1em;
     font-weight: 800;
     margin-bottom: .4em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000364}}
   .footer hr {
     border: 1px solid rgba(255, 255, 255, 0.1);
     margin: 0 auto 1.5em;
     width: 12em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/2-modules\/_footer\.scss}line{font-family:\0000370}}
   .footer p {
     color: rgba(255, 255, 255, 0.4);
     font-size: .9em;
@@ -590,7 +595,7 @@ input[type="submit"] {
     max-width: 35em;
     text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/3-layouts\/_home\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Royal-Bookbinders\/sass\/3-layouts\/_home\.scss}line{font-family:\000035}}
 .content, .logo_container {
   width: 70%;
   margin: 0 auto; }
