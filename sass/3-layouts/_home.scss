@@ -1,0 +1,49 @@
+@import "breakpoint";
+
+
+
+.content, .logo_container {
+	// width: $large-screen;
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+// .rb_logo {
+// 	width: 90%;
+// 	@include outer-container;
+// 	margin: 0 auto;
+// 	@include breakpoint(800px) {
+// 			img {
+// 		@include span-columns(2);
+// 	}
+// 	h1 {
+// 		@include span-columns(10);
+// 	}
+// 	}
+	
+
+// }
+
+// @include breakpoint(800px) {
+
+// 	aside.sidebar1 {
+// 	@include span-columns(3);
+
+// }
+// aside.sidebar2 {
+// 	@include span-columns(3);
+
+
+// }
+// article.main {
+// 	@include span-columns(6);
+
+
+// }
+// }
