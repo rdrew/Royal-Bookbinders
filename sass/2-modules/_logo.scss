@@ -12,3 +12,14 @@
 .logo_container {
     padding-top: 20px;
 }
+@include media(800px) {
+	.logo_image {
+    float: left;
+}
+.logo_name {
+    float: left;
+}
+.content {
+    clear: both;
+}
+}

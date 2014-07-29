@@ -289,6 +289,18 @@ input[type="submit"] {
 .logo_container {
   padding-top: 20px; }
 
+@media screen and (min-width: 800px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000316}}
+  .logo_image {
+    float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000319}}
+  .logo_name {
+    float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_logo\.scss}line{font-family:\0000322}}
+  .content {
+    clear: both; } }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/2-modules\/_top-nav\.scss}line{font-family:\000034}}
 .centered-navigation {
   background-color: #e7f1ec;
@@ -580,5 +592,5 @@ input[type="submit"] {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/rdrew\/Documents\/Royal\%20Bookbinders\/sass\/3-layouts\/_home\.scss}line{font-family:\000035}}
 .content, .logo_container {
-  width: 90%;
+  width: 70%;
   margin: 0 auto; }
